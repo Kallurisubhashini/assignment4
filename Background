@@ -5,7 +5,10 @@
      body{
      background-color:lightgreen;
     background-image:url('/image.png.png');
-     
+     Background-size:500px;
+     Background-reprat:no-repeat;
+     Background-attachment:fixed;
+     Background-color:pink;
      }  
    </style> 
  </head> 
